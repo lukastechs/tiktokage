@@ -1,6 +1,4 @@
-fastapi==0.110.0
-uvicorn==0.27.0
-playwright==1.42.0
-redis==5.0.1
-python-dotenv==1.0.0
-pydantic==2.6.1
+fastapi==0.115.2
+uvicorn==0.32.0
+TikTokApi==6.3.0
+pydantic==2.9.2
